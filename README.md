@@ -32,7 +32,7 @@ topicNumber_topicName.ipynb
 | Status | Topic # | Topic Name          | File Name                  |
 |--------|---------|---------------------|----------------------------|
 |   ✔️ | 01      | Introduction to DSA | `01_Introduction_to_DSA`   |
-|   x  | 02      | Comments in Python  | `02_Comment_in_Python`     |
+|     | 02      | Comments in Python  | `02_Comment_in_Python`     |
 |   x  | 03      | Python Variables    | `03_Python_Variable`       |
 |   x  | 04      | Input / Output      | `04_Input-Output`          |
 |   x  | 05      | Data Types          | `05_Python_Data_Types`     |
